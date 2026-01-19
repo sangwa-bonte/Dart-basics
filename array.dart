@@ -1,3 +1,5 @@
+// This shows the operations of arrays 
+
 void main() {
   List<double> marks = [50.5, 60, 70, 80, 90, 7777];
   print("The first element is ${marks[0]}");
